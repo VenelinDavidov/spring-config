@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related webhock product APIs "
+  message: "Welcome to EazyBank accounts related webhock products APIs "
   contactDetails:
     name: "Rayan Aishwarya - Product Owner"
     email: "rayanasiwarya@eazybank.com"
