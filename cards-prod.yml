@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EazyBank cards related webhoock APIs "
+  message: "Welcome to EazyBank cards related prod APIs "
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "sandra@eazybank.com"
@@ -10,3 +10,4 @@ cards:
     - (617) 432-2356
 
     - (936) 564-8721
+
